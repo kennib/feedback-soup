@@ -17,7 +17,7 @@ title: feedback soup
 email: kenni.bawden@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple stories about complex systems
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/feedback-soup" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/logo.png
 twitter_username: kenni_bawden 
